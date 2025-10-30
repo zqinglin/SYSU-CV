@@ -1,6 +1,6 @@
 # SYSU-CV：中山大学 LaTeX 中文简历模板
 
-![](./docs/CV-preview.jpg)
+![](./docs/CV-preview.png)
 
 ## 简介
 
